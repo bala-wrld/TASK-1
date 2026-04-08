@@ -30,9 +30,9 @@ I just timed the delay perfectly, so that the delay doesnt affect the other leds
 
 QUESTION 2: 
 The max value given by potentiometer is 1023, so we get three equal parts 0-341, 342-682 , 683-1023.
-If the potentiometer is set between 0-341 it would become red
-342-682 it would become blue
-683-1023 it would become green
+If the potentiometer is set between 0-341,the led would light red
+342-682 it would light blue
+683-1023 it would light green
 
 And to control the blinking speed of the LED I just gave delay(potentiometer_value), so if we increase the value of the potentiometer
 the time period of the LED also increases.
