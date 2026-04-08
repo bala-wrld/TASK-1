@@ -26,6 +26,7 @@ And it wont affect the value of distance measured.
 
 QUESTION 1: 
 After using around 12 delay function and timing each LED according to it, we can see that the asked pattern is follwed by each of the LED
+I just timed the delay perfectly, so that the delay doesnt affect the other leds.
 
 QUESTION 2: 
 The max value given by potentiometer is 1023, so we get three equal parts 0-341, 342-682 , 683-1023.
