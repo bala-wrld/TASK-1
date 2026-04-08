@@ -40,7 +40,7 @@ the time period of the LED also increases.
 QUESTION 3:
 I got the digital input of the push button , so that if its pressed its value is 1 and when not pressed its value is 0
 I also used random function since its mentioned in the question that the LED should turn on randomly.
-The value that the random function generates will the time at which the LED glows.
+The value that the random function generates will be the time at which the LED glows.
 When the led is turned on and the button is pressed, the reaction time is calculated as millis()-random_value
 And the above value is also printed in the serial monitor
 
